@@ -146,7 +146,7 @@
     "title": "portchannel-horizontal"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;font data-font-src=&amp;quot;https://fonts.googleapis.com/css?family=Oxygen&amp;quot; face=&amp;quot;Oxygen&amp;quot;&amp;gt;Eth1/1&amp;lt;/font&amp;gt;\" style=\"html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=3.5;spacing=2;strokeColor=#343a40;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=20;rotation=0;fillColor=#ffffff;strokeWidth=0.5;lucidId=FTfhXPljw2Sw;container=1;collapsible=0;align=center;verticalAlign=middle;spacingTop=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"20\" height=\"8\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;font style=&amp;quot;color: rgb(73, 80, 87);&amp;quot; face=&amp;quot;Oxygen&amp;quot; data-font-src=&amp;quot;https://fonts.googleapis.com/css?family=Oxygen&amp;quot;&amp;gt;Eth1/1&amp;lt;/font&amp;gt;\" style=\"html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=3.5;spacing=2;strokeColor=#495057;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=20;rotation=0;fillColor=#ffffff;strokeWidth=0.5;lucidId=FTfhXPljw2Sw;container=1;collapsible=0;align=center;verticalAlign=middle;spacingTop=0;fontColor=#F8F9FA;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"20\" height=\"8\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 20,
     "h": 8,
     "aspect": "fixed",
