@@ -180,5 +180,12 @@
     "h": 40,
     "aspect": "fixed",
     "title": "access-point"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;font style=&amp;quot;font-size: 4px;&amp;quot;&amp;gt;Gi1/0/1&amp;lt;/font&amp;gt;\" style=\"rounded=1;whiteSpace=wrap;html=1;rotation=0;fontSize=9;fillColor=#FFFFFF;strokeColor=#495057;strokeWidth=0.5;spacingTop=-4;fontFamily=Helvetica;fontColor=#495057;spacingBottom=0;points=[];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"17\" height=\"6\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 17,
+    "h": 6,
+    "aspect": "fixed",
+    "title": "link-label"
   }
 ]</mxlibrary>
